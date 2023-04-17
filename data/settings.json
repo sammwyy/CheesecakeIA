@@ -1,0 +1,19 @@
+{
+    "blacklist": [
+        "nigga",
+        "nigger",
+        "fucker",
+        "puto",
+        "puta",
+        "maricon",
+        "maricona",
+        "hitler",
+        "nazi",
+        "nazis"
+    ],
+    "channel": "sammwy",
+    "maxPromptLength": 80,
+    "maxResponseLength": 200,
+    "minBits": 50,
+    "model": "gpt-3.5-turbo"
+}
